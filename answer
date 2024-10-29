@@ -1,0 +1,7 @@
+1. git status - used to show all files being tracked by git
+2. git add . - used to stage a file to be commited
+3. git commit -m "message" - used to commit files
+4. git log - used to show all committed files
+5. git pull - used to pull most recent file from repository]
+6. git push - used to push file to repository 
+7. git checkout - used to uncommit a file
