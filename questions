@@ -1,1 +1,9 @@
 write and explain the git commands you know in the Answers file
+git init - used to initiate git 
+git status - used to show all files being tracked by git
+git add . - used to stage a file to be commited
+git commit -m "message" - used to commit files
+git log - used to show all committed files
+git pull - used to pull most recent file from repository]
+git push - used to push file to repository 
+git checkout - used to uncommit a file
