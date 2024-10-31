@@ -13,3 +13,4 @@
 13. cd: used to return a step back.
 14. grep: used to search for a particular file.
 15. man: used to generate the linux commands manual.
+16. cal: used to open calender
