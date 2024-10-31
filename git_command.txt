@@ -1,0 +1,15 @@
+1. mkdir: used in creating directories.
+2. ls: used to see present location.
+3. touch: used in creating files.
+4. cat: used to see the content of a file.
+5. nano: used to write multiple contents in a file.
+6. echo: used to write a line of content in a file. 
+7. rm: used to delete a file or directory.
+8. sudo -i: used to return to root user.
+9. pwd: print working directory .
+10. clear: used to clear linux terminal.
+11. cp: used to copy a file into another. 
+12. mv: used to move a file into a directory.
+13. cd: used to return a step back.
+14. grep: used to search for a particular file.
+15. man: used to generate the linux commands manual.
